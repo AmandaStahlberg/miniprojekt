@@ -1,4 +1,4 @@
-import React, { CSSProperties, Props, useDebugValue } from 'react';
+import React, { CSSProperties } from 'react';
 import Home from './home/Home';
 import Search from './search/Search';
 import background from '../assets/background.png';
